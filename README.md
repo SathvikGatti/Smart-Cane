@@ -9,13 +9,14 @@ The ultrasonic sensors keep measuring the distance of any object infront of him 
 it will set an alarm in the blind's phone, which will send a voice signal to the blind via earphones saying "Too near". 
 So that the blind man can change course or take action. 
 Apart from this we had a unique security feature to help avoid miscreants taking advantage of a blind's disability to rob, harras. 
+
 It also has a security button that the blind man can press whenver he/she feels need of help, when the SOS button is pressed, two things happen,
 1. There is an immediate message sent to the blind's guardian which contains the co-ordinates of the blind's location in order to track him/her.
 2.A direct call is made to pre-registered phone number which can be a guardian so that he can talk to them and express.
 
 ## Hardware and Tech-stack involved:
-Micro-controller: ESP_8266 Node MCU micorcontroller.
-HC05 Ultransonic sensors.
-Cloud: Google Firebase.
-Language: C++ in Arduino IDE.
-App: Kodular, version of MIT app invertor.
+*Micro-controller: ESP_8266 Node MCU micorcontroller.
+*HC05 Ultransonic sensors.
+*Cloud: Google Firebase.
+*Language: C++ in Arduino IDE.
+*App: Kodular, version of MIT app invertor.
