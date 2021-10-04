@@ -1,6 +1,6 @@
 # Smart-Cane
 Smart Cane is a device that built based on IOT that is a visually impaired's friend, that helps him/her to walk with guidance.
-#Brief Overview:
+##Brief Overview:
 This was a project that I worked on with my friends in my second year, we thought of building this project with an intention to help blind people walk with ease. 
 So smart cane is a device that we built based on IOT using ESP8266 micro-controller with wifi, Google Fire-base for cloud, and built an app with Kodular.
 The device is attached on a blind's cane. The device is connected to an App that is installed in the blind man's phone through Firebase. So we set a 
@@ -13,7 +13,7 @@ It also has a security button that the blind man can press whenver he/she feels 
 1. There is an immediate message sent to the blind's guardian which contains the co-ordinates of the blind's location in order to track him/her.
 2.A direct call is made to pre-registered phone number which can be a guardian so that he can talk to them and express.
 
-Hardware and Tech-stack involved:
+##Hardware and Tech-stack involved:
 Micro-controller: ESP_8266 Node MCU micorcontroller.
 HC05 Ultransonic sensors.
 Cloud: Google Firebase.
