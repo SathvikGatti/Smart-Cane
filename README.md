@@ -15,8 +15,8 @@ It also has a security button that the blind man can press whenver he/she feels 
 2.A direct call is made to pre-registered phone number which can be a guardian so that he can talk to them and express.
 
 ## Hardware and Tech-stack involved:
-*Micro-controller: ESP_8266 Node MCU micorcontroller.
-*HC05 Ultransonic sensors.
-*Cloud: Google Firebase.
-*Language: C++ in Arduino IDE.
-*App: Kodular, version of MIT app invertor.
+* Micro-controller: ESP_8266 Node MCU micorcontroller.
+* HC05 Ultransonic sensors.
+* Cloud: Google Firebase.
+* Language: C++ in Arduino IDE.
+* App: Kodular, version of MIT app invertor.
